@@ -1,4 +1,8 @@
 # Angular Homes App
+
+# Curso no youtube equipe Angular
+[Clique aqui para acessar as aulas do curso](https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF)
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
